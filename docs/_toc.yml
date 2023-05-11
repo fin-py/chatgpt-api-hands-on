@@ -6,3 +6,6 @@ root: intro
 chapters:
 - file: chatgpt-api
 - file: langchain
+  sections:
+  - file: models
+  - file: prompts
