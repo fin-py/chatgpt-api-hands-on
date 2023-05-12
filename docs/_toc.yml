@@ -9,3 +9,4 @@ chapters:
   sections:
   - file: models
   - file: prompts
+  - file: indexes
