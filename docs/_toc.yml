@@ -10,4 +10,5 @@ chapters:
   - file: models
   - file: prompts
   - file: indexes
+  - file: memory
   - file: chains
